@@ -1,4 +1,4 @@
-# 🌎 FloodIt Overview
+# 🎨 FloodIt Overview
 
 ## ℹ️ What is it?
 
