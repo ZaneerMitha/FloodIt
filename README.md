@@ -4,6 +4,8 @@
 
 FloodIt is a game in which the goal is for a player to fill the board with one color. As the user clicks on a color, the game reveals a ripple animation and fills nearby squares with that color. A player's score is also calculated at the bottom of the screen, increasing with every click and prompting a winning screen if the board is completed in under 17 tries. To keep the game competitive, a time (in seconds) is shown at the top of the screen. Race your friends to FloodIt!
 
+This is my first Java project, and I wanted to use it as an opportunity to implement algorithms in Java. The game itself depends on an algorithm to fill in the colors. I also wanted to learn how to structure a Graphical User Interface (GUI) and make it easy to interact with.
+
 ## 💻 Technologies
 
 This project was made fully in Java, and allows user interaction through clicks on the Graphical User Interface (GUI).
